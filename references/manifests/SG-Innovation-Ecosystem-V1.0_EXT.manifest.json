@@ -1,0 +1,1883 @@
+[
+ {
+  "id": "root",
+  "sheet": 0,
+  "parent": null,
+  "kind": "root",
+  "depth": 0,
+  "title": "Cover",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 0,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "root",
+  "sheet": 1,
+  "parent": null,
+  "kind": "root",
+  "depth": 0,
+  "title": "Singapore Innovation Engine",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 0,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-apex",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "PMO · RIE2030",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 1,
+  "rect": [
+   821.44,
+   45,
+   199.11,
+   112
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-meti",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-meti",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 2,
+  "rect": [
+   0,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-edb",
+  "sheet": 1,
+  "parent": "r1-meti",
+  "kind": "frame",
+  "depth": 2,
+  "title": "EDB",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 3,
+  "rect": [
+   128.77,
+   247,
+   124.44,
+   70
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-astar",
+  "sheet": 1,
+  "parent": "r1-meti",
+  "kind": "frame",
+  "depth": 2,
+  "title": "A*STAR",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 4,
+  "rect": [
+   113.33,
+   333.48,
+   165.33,
+   93
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-esg",
+  "sheet": 1,
+  "parent": "r1-meti",
+  "kind": "frame",
+  "depth": 2,
+  "title": "EnterpriseSG",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 5,
+  "rect": [
+   113.66,
+   442.66,
+   154.66,
+   87
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-sggc",
+  "sheet": 1,
+  "parent": "r1-meti",
+  "kind": "frame",
+  "depth": 2,
+  "title": "SG Growth Capital",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 6,
+  "rect": [
+   128.77,
+   546.03,
+   124.44,
+   70
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-jtc",
+  "sheet": 1,
+  "parent": "r1-meti",
+  "kind": "frame",
+  "depth": 2,
+  "title": "JTC",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 7,
+  "rect": [
+   128.77,
+   632.52,
+   124.44,
+   70
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "r1-moe",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-moe",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 8,
+  "rect": [
+   0,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-uni",
+  "sheet": 1,
+  "parent": "r1-moe",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Universities",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 9,
+  "rect": [
+   362.5,
+   285.13,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-poly",
+  "sheet": 1,
+  "parent": "r1-moe",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Polytechnics",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 10,
+  "rect": [
+   362.5,
+   450.3,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-aisg",
+  "sheet": 1,
+  "parent": "r1-moe",
+  "kind": "frame",
+  "depth": 2,
+  "title": "AI Singapore",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 11,
+  "rect": [
+   357.5,
+   591.72,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-moh",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-moh",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 12,
+  "rect": [
+   150.7,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-hosp",
+  "sheet": 1,
+  "parent": "r1-moh",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Public hospitals",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 13,
+  "rect": [
+   555,
+   308.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-synapxe",
+  "sheet": 1,
+  "parent": "r1-moh",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Synapxe",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 14,
+  "rect": [
+   550,
+   544.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mddi",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mddi",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 15,
+  "rect": [
+   343.2,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-imda",
+  "sheet": 1,
+  "parent": "r1-mddi",
+  "kind": "frame",
+  "depth": 2,
+  "title": "IMDA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 16,
+  "rect": [
+   742.5,
+   308.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-govtech",
+  "sheet": 1,
+  "parent": "r1-mddi",
+  "kind": "frame",
+  "depth": 2,
+  "title": "GovTech",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 17,
+  "rect": [
+   742.5,
+   544.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mha",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mha",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 18,
+  "rect": [
+   535.7,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-htx",
+  "sheet": 1,
+  "parent": "r1-mha",
+  "kind": "frame",
+  "depth": 2,
+  "title": "HTX",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 19,
+  "rect": [
+   935,
+   308.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-hometeam",
+  "sheet": 1,
+  "parent": "r1-mha",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Home Team",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 20,
+  "rect": [
+   935,
+   544.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mot",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mot",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 21,
+  "rect": [
+   728.2,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-mpa",
+  "sheet": 1,
+  "parent": "r1-mot",
+  "kind": "frame",
+  "depth": 2,
+  "title": "MPA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 22,
+  "rect": [
+   1127.5,
+   269.13,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-lta",
+  "sheet": 1,
+  "parent": "r1-mot",
+  "kind": "frame",
+  "depth": 2,
+  "title": "LTA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 23,
+  "rect": [
+   1127.5,
+   426.45,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-caas",
+  "sheet": 1,
+  "parent": "r1-mot",
+  "kind": "frame",
+  "depth": 2,
+  "title": "CAAS · Changi",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 24,
+  "rect": [
+   1127.5,
+   583.8,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mse",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mse",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 25,
+  "rect": [
+   920.7,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-pub",
+  "sheet": 1,
+  "parent": "r1-mse",
+  "kind": "frame",
+  "depth": 2,
+  "title": "PUB",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 26,
+  "rect": [
+   1320,
+   308.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-nea",
+  "sheet": 1,
+  "parent": "r1-mse",
+  "kind": "frame",
+  "depth": 2,
+  "title": "NEA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 27,
+  "rect": [
+   1320,
+   544.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mindef",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mindef",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 28,
+  "rect": [
+   951.4,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-dsta",
+  "sheet": 1,
+  "parent": "r1-mindef",
+  "kind": "frame",
+  "depth": 2,
+  "title": "DSTA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 29,
+  "rect": [
+   1512.5,
+   308.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-capvista",
+  "sheet": 1,
+  "parent": "r1-mindef",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Cap Vista",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 30,
+  "rect": [
+   1512.5,
+   544.63,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-mof",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-mof",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 31,
+  "rect": [
+   951.4,
+   176.58,
+   968.6,
+   544.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-temasek",
+  "sheet": 1,
+  "parent": "r1-mof",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Temasek",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 32,
+  "rect": [
+   1705,
+   269.13,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-gic",
+  "sheet": 1,
+  "parent": "r1-mof",
+  "kind": "frame",
+  "depth": 2,
+  "title": "GIC",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 33,
+  "rect": [
+   1705,
+   426.45,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-sginnovate",
+  "sheet": 1,
+  "parent": "r1-mof",
+  "kind": "frame",
+  "depth": 2,
+  "title": "SGInnovate",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 34,
+  "rect": [
+   1705,
+   583.8,
+   172,
+   96.75
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "r1-private",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-private",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 35,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-p-vc",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "VCs and accelerators",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 36,
+  "rect": [
+   129.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-p-vb",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Venture builders",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 37,
+  "rect": [
+   433.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-p-corp",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Corporates and MNCs",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 38,
+  "rect": [
+   737.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-p-cvc",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "CVCs",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 39,
+  "rect": [
+   1041.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-p-fo",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Family offices",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 40,
+  "rect": [
+   1345.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "t1-p-kr",
+  "sheet": 1,
+  "parent": "r1-private",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Korean presence",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 41,
+  "rect": [
+   1649.88,
+   754,
+   142.22,
+   80
+  ],
+  "aspect": 1.7777
+ },
+ {
+  "id": "r1-benefits",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-benefits",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 42,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-b-cost",
+  "sheet": 1,
+  "parent": "r1-benefits",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Shared cost and risk",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 43,
+  "rect": [
+   229.16,
+   887,
+   74.66,
+   42
+  ],
+  "aspect": 1.7775
+ },
+ {
+  "id": "t1-b-customer",
+  "sheet": 1,
+  "parent": "r1-benefits",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Agencies as first customers",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 44,
+  "rect": [
+   692.16,
+   887,
+   74.66,
+   42
+  ],
+  "aspect": 1.7775
+ },
+ {
+  "id": "t1-b-coinvest",
+  "sheet": 1,
+  "parent": "r1-benefits",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Co-investment as evidence",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 45,
+  "rect": [
+   1155.16,
+   887,
+   74.66,
+   42
+  ],
+  "aspect": 1.7775
+ },
+ {
+  "id": "t1-b-asean",
+  "sheet": 1,
+  "parent": "r1-benefits",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Gateway to ASEAN",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 46,
+  "rect": [
+   1618.16,
+   887,
+   74.66,
+   42
+  ],
+  "aspect": 1.7775
+ },
+ {
+  "id": "r1-path",
+  "sheet": 1,
+  "parent": "root",
+  "kind": "region",
+  "depth": 1,
+  "title": "r1-path",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 47,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-s1",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Define the question",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 48,
+  "rect": [
+   133.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s2",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Pick partners",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 49,
+  "rect": [
+   398.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s3",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Co-develop",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 50,
+  "rect": [
+   663.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s4",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Run the PoC",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 51,
+  "rect": [
+   928.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s5",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Raise the round",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 52,
+  "rect": [
+   1193.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s6",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Scale in the region",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 53,
+  "rect": [
+   1458.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-s7",
+  "sheet": 1,
+  "parent": "r1-path",
+  "kind": "frame",
+  "depth": 2,
+  "title": "Choose your hubs",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 54,
+  "rect": [
+   1723.77,
+   963,
+   60.44,
+   34
+  ],
+  "aspect": 1.7776
+ },
+ {
+  "id": "t1-apex-budget",
+  "sheet": 1,
+  "parent": "t1-apex",
+  "kind": "frame",
+  "depth": 2,
+  "title": "RIE2030 budget",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 55,
+  "rect": [
+   829.22,
+   82.51,
+   47.7,
+   26.83
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-astar-facilities",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Institutes and facilities",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 56,
+  "rect": [
+   119.79,
+   365.8,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "t1-astar-waysin",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Ways in",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 57,
+  "rect": [
+   133.51,
+   365.8,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "t1-astar-spinoffs",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Spin-off pipeline",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 58,
+  "rect": [
+   147.23,
+   365.8,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "case-eaic",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Singapore Embodied AI Challenge",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 59,
+  "rect": [
+   119.79,
+   378.43,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "case-amf",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "AMF → GlobalFoundries",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 60,
+  "rect": [
+   133.51,
+   378.43,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "case-curiox",
+  "sheet": 1,
+  "parent": "t1-astar",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Curiox → Korea Exchange",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 61,
+  "rect": [
+   147.23,
+   378.43,
+   12.17,
+   6.84
+  ],
+  "aspect": 1.7781
+ },
+ {
+  "id": "t1-esg-eligibility",
+  "sheet": 1,
+  "parent": "t1-esg",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Eligibility matrix",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 62,
+  "rect": [
+   119.7,
+   470.66,
+   37.06,
+   20.84
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-sggc-ladder",
+  "sheet": 1,
+  "parent": "t1-sggc",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Startup SG Equity ladder",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 63,
+  "rect": [
+   133.63,
+   568.57,
+   29.81,
+   16.77
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-uni-rtg",
+  "sheet": 1,
+  "parent": "t1-uni",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Research Translation Grant",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 64,
+  "rect": [
+   369.22,
+   316.27,
+   41.21,
+   23.18
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-hosp-chisel",
+  "sheet": 1,
+  "parent": "t1-hosp",
+  "kind": "frame",
+  "depth": 3,
+  "title": "CHISEL Healthcare InnoMatch",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 65,
+  "rect": [
+   561.72,
+   339.77,
+   41.21,
+   23.18
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-imda-oip",
+  "sheet": 1,
+  "parent": "t1-imda",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Open Innovation Platform",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 66,
+  "rect": [
+   749.22,
+   342.24,
+   19.8,
+   11.14
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "case-wizai",
+  "sheet": 1,
+  "parent": "t1-imda",
+  "kind": "frame",
+  "depth": 3,
+  "title": "WIZ.AI · B71 and IMDA",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 67,
+  "rect": [
+   770.63,
+   342.24,
+   19.8,
+   11.14
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-htx-hatch",
+  "sheet": 1,
+  "parent": "t1-htx",
+  "kind": "frame",
+  "depth": 3,
+  "title": "HTX Hatch",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 68,
+  "rect": [
+   941.72,
+   339.77,
+   41.21,
+   23.18
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-mpa-pier71",
+  "sheet": 1,
+  "parent": "t1-mpa",
+  "kind": "frame",
+  "depth": 3,
+  "title": "PIER71 and MINT",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 69,
+  "rect": [
+   1134.22,
+   302.74,
+   19.8,
+   11.14
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "case-seadronix",
+  "sheet": 1,
+  "parent": "t1-mpa",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Seadronix at PIER71",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 70,
+  "rect": [
+   1155.63,
+   302.74,
+   19.8,
+   11.14
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "case-avikus",
+  "sheet": 1,
+  "parent": "t1-mpa",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Avikus × Eastern Pacific Shipping",
+  "clickOnly": true,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 71,
+  "rect": [
+   1134.22,
+   317.43,
+   19.8,
+   11.14
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t1-temasek-stages",
+  "sheet": 1,
+  "parent": "t1-temasek",
+  "kind": "frame",
+  "depth": 3,
+  "title": "Temasek-linked platforms by stage",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": true,
+  "readingOrder": 72,
+  "rect": [
+   1711.72,
+   300.27,
+   41.21,
+   23.18
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "root",
+  "sheet": 2,
+  "parent": null,
+  "kind": "root",
+  "depth": 0,
+  "title": "Korea × Singapore",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 0,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-anchor",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "TIPS ↔ GAP",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 1,
+  "rect": [
+   882,
+   45,
+   208,
+   117
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-01",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "National strategy",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 2,
+  "rect": [
+   880,
+   228.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-02",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Lab → startup · mission-led",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 4,
+  "rect": [
+   770,
+   287.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-03",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Lab → startup · broad-based",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 6,
+  "rect": [
+   825,
+   346.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-04",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Early-stage selection",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 7,
+  "rect": [
+   990,
+   405.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-05",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "PoC · public customer",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 9,
+  "rect": [
+   770,
+   464.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-06",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "PoC · industrial site",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 11,
+  "rect": [
+   990,
+   523.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-07",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Strategic capital",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 12,
+  "rect": [
+   990,
+   582.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-08",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Growth capital · LPs",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 14,
+  "rect": [
+   770,
+   641.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-09",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Market",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 15,
+  "rect": [
+   880,
+   700.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-row-10",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Exit",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 17,
+  "rect": [
+   990,
+   759.5,
+   160,
+   90
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-1",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Strategic Partnership · FTA talks",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 3,
+  "rect": [
+   873,
+   285,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-2",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "EnterpriseSG–KIAT · AI Alliance",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 5,
+  "rect": [
+   845.5,
+   344,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-3",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "KSC Singapore",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 8,
+  "rect": [
+   928,
+   462,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-4",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "NIPA–HTX MOU",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 10,
+  "rect": [
+   928,
+   521,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-5",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "K-VCC · KVIC ASIA",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 13,
+  "rect": [
+   928,
+   639,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t2-br-6",
+  "sheet": 2,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "SG deep tech listed on KRX",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 16,
+  "rect": [
+   983,
+   757,
+   64,
+   36
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "root",
+  "sheet": 3,
+  "parent": null,
+  "kind": "root",
+  "depth": 0,
+  "title": "Dual Hub",
+  "clickOnly": false,
+  "lensOnly": false,
+  "inset": false,
+  "readingOrder": 0,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-hook",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "10 : 0 : 0",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 1,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-1",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "KRW 50bn KR–SG joint AI R&D",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 2,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-2",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "NIPA–HTX MOU · HTX Hatch",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 3,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-3",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "Avikus × EPS",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 4,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-4",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "KSDPA (2023)",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 5,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ },
+ {
+  "id": "t3-ev-5",
+  "sheet": 3,
+  "parent": "root",
+  "kind": "frame",
+  "depth": 1,
+  "title": "2 of 7 SG deep-tech exits on KRX",
+  "clickOnly": true,
+  "lensOnly": true,
+  "inset": false,
+  "readingOrder": 6,
+  "rect": [
+   0,
+   0,
+   1920,
+   1080
+  ],
+  "aspect": 1.7778
+ }
+]
